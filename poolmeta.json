@@ -2,6 +2,5 @@
   "name": "Ozzy pool",
   "description": "A Cardano ADA stakepool by the Osborne brothers",
   "ticker": "OZZY",
-  "homepage": "http://ozzy-pool.com/",
-  "test": "708266bd707a2b9b762faee1cd381bcc"
+  "homepage": "http://ozzy-pool.com/"
 }

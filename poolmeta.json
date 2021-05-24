@@ -1,6 +1,6 @@
 {
   "name": "Ozzy pool",
-  "description": "A Cardano ADA stakepool by the Osborne brothers",
+  "description": "A Cardano ADA stakepool by the Osborne family",
   "ticker": "OZZY",
   "homepage": "http://ozzy-pool.com/",
   "extended": "https://raw.githubusercontent.com/Ozzy-pool/Stakepool/main/extendedmeta.json"
